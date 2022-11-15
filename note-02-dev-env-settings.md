@@ -208,6 +208,8 @@ Optional （非必要，老翰個人偏好）
 - 字體： [Cascadia (Code|Mono) PL](https://github.com/microsoft/cascadia-code/releases)
 - [BBEdit 文字編輯器](https://apps.apple.com/tw/app/bbedit/id404009241)
 
+參考資料：
+- [8 Ways I Use HomeBrew on macOS to Increase Productivity](https://medium.com/@aplaceofmind/i-install-all-macos-apps-using-homebrew-to-increase-productivity-7fc2d511bcc3)
 
 ### 協助安裝或教學記錄
 
