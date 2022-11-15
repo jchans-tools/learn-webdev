@@ -1,8 +1,6 @@
----
-tags: '前端筆記'
----
-
 # 前端共學筆記目錄（ 20221108- ）
+
+###### tags: `前端筆記`
 
 1. [Mac 前端開發環境安裝](https://hackmd.io/@-pIJWZzVRmCcCjznqBGBKg/ryeconMSs)
 2. bash / zsh 指令入門（超級入門）
